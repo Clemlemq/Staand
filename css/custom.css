@@ -7,7 +7,7 @@ body, p {
 }
 
 .header .text-container {
-  margin-top: 6rem;
+  margin-top: 3rem;
 }
 
 .navbar-custom.top-nav-collapse .nav-item .nav-link {
@@ -89,7 +89,7 @@ body, p {
 
 @media (min-width: 1200px) {
   .header .header-content {
-    padding-top: 8rem;
+    padding-top: 11rem;
   }
 }
 
@@ -111,8 +111,8 @@ h1 {
   display: inline-block;
   padding: 1.175rem 2.025rem 1.175rem;
   border-radius: 8px;
-  border-color: #DA291C;
-  background-color: #DA291C;
+  border-color: #273C6E;
+  background-color: #273C6E;
   color: #fff;
   font: 700 0.75rem/0 "Muli", sans-serif;
   text-decoration: none;

@@ -133,10 +133,10 @@ a.white {
 
 .btn-solid-reg {
 	display: inline-block;
-	padding: 1.1875rem 2.125rem 1.1875rem 2.125rem;
-	border: 0.125rem solid #00c9db;
+	padding: 1rem 2rem 1rem 2rem;
+	border: 0.125rem solid #273C6E;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #273C6E;
 	color: #fff;
 	font: 700 0.75rem/0 "Muli", sans-serif;
 	text-decoration: none;
@@ -152,9 +152,9 @@ a.white {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1.375rem 2.625rem 1.375rem 2.625rem;
-	border: 0.125rem solid #00c9db;
+	border: 0.125rem solid #273C6E;
 	border-radius: 2rem;
-	background-color: #00c9db;
+	background-color: #273C6E;
 	color: #fff;
 	font: 700 0.75rem/0 "Muli", sans-serif;
 	text-decoration: none;
@@ -645,8 +645,8 @@ input[type='checkbox'] {
 }
 
 .navbar-custom .navbar-brand.logo-image img {
-  width: 60%;
-	margin-bottom: 1px;
+  width: 150px;
+	margin-top: 15px;
 	-webkit-backface-visibility: hidden;
 }
 
@@ -764,7 +764,7 @@ input[type='checkbox'] {
 /*    04. Header     */
 /*********************/
 .header {
-	background-color: #F5F8FF;
+	background-color: #fff;
 	background-size: cover;
 }
 
@@ -1950,7 +1950,7 @@ a:hover.back-to-top {
 
 	/* Navigation */
 	.navbar-custom {
-		padding: 2.125rem 5rem 2.125rem 5rem;
+		padding: 1.125rem 2rem 1.125rem 2rem;
 	}
 
 	.navbar-custom.top-nav-collapse {
@@ -1973,7 +1973,7 @@ a:hover.back-to-top {
 	}
 
 	.header .image-container {
-		margin-left: 3rem;
+		margin-left: 2rem;
 	}
 	/* end of header */
 
