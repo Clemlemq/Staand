@@ -96,7 +96,7 @@ body, p {
 
 
 h1 {
-	color: #202A35;
+	color: #273C6E;
 }
 
 .p-large {
@@ -114,16 +114,16 @@ h1 {
   border-color: #273C6E;
   background-color: #273C6E;
   color: #fff;
-  font: 700 0.75rem/0 "Muli", sans-serif;
+  font: 700 0.75rem/0 "Work-sans", sans-serif;
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .btn-solid:hover {
-  background-color: #971D15;
+  background-color: #5C6888;
   color: white;
   text-decoration: none;
-  border-color:#971D15;
+  border-color: #5C6888;
 }
 
 
@@ -134,7 +134,7 @@ h1 {
   border-color: #DA291C;
 	background-color: #DA291C;
 	color: #fff;
-	font: 700 0.75rem/0 "Muli", sans-serif;
+	font: 700 0.75rem/0 "Work-sans", sans-serif;
 	text-decoration: none;
 	transition: all 0.2s ease;
 }
@@ -182,17 +182,17 @@ h1 {
   display: inline-block;
   padding: 1.375rem 2.625rem 1.375rem 2.625rem;
   border-radius: 8px;
-  border-color: #1D2A36;
+  border-color: #273C6E;
   border-style: solid;
-  background-color: #F5F8FF;
+  background-color: #FFF;
   color: #1D2A36;
-  font: 700 0.75rem/0 "Muli", sans-serif;
+  font: 700 0.75rem/0 "Work-sans", sans-serif;
   text-decoration: none;
   transition: all 0.2s ease;
 }
 
 .btn-solid2-lg:hover {
-  background-color: #1D2A36;
+  background-color: #273C6E;
   color: #E3EBFC;
   text-decoration: none;
   border-color:#1D2A36;
