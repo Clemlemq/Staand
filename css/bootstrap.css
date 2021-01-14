@@ -487,10 +487,9 @@ mark,
 }
 
 .img-fluid2 {
-  max-width: 110%;
+  max-width: 100%;
   height: auto;
-  margin-top: 20px;
-  margin-left: -30px;
+
 }
 
 .img-fluid3 {
